@@ -52,7 +52,6 @@ img {
   color: var(--white);
   text-align: center;
   border-radios: 5px;
-  cursor: pointer;
 }
 
 .counter-div > * {
@@ -72,6 +71,7 @@ img {
   border-radius: 3px;
   background-color: var(--white);
   font-weight: 700;
+  cursor: pointer;
 }
 
 button.subtract {
